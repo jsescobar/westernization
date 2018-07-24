@@ -5,3 +5,7 @@ Gut microbiota is associated with obesity and cardiometabolic disease in a popul
 *Scientific Reports*. doi: 10.1038/s41598-018-29687-x.
 www.nature.com/articles/s41598-018-29687-x
 
+* There are two main R scripts:
+  * Microbio_code.R: corresponds to the main code that served to analyze the Colombian dataset
+  * curated_metagenomes.R: corresponds to the code employed in the meta-analysis of benchmark metagenomic datasets (see curatedMetagenomicData at https://waldronlab.github.io/curatedMetagenomicData/
+  
